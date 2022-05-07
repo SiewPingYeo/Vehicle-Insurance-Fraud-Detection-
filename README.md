@@ -46,6 +46,18 @@ AUC score: 0.80
 
 - True business costs will have to be considered before the model can be deployed. 
 
+## Libraries Used 
+1. Numpy 
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. sklearn
+6. imblearn
+7. MLxtend
+8. Scipy
+9. XGBoost
+10. eli5 
+
 ## Feedback
 
 If you have any feedback, please feel free to reach out to me at yeosiewping@gmail.com
