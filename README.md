@@ -35,3 +35,17 @@ Create a machine learning model to predict if a specific vehicle insurance claim
 4. Exploratory data analysis
 5. Data-preprocessing and Feature engineering (covered in Part 1 - Project Script - Exploratory Data Analysis and Data-Preprocessing 
 6. Machine Learning (covered in Part 2 - Project script -Machine Learning)
+
+## Outcome
+
+Best model : Logistic Regression Model with class weights adjusted
+
+Recall score: 0.92 
+
+AUC score: 0.80
+
+- True business costs will have to be considered before the model can be deployed. 
+
+## Feedback
+
+If you have any feedback, please feel free to reach out to me at yeosiewping@gmail.com
